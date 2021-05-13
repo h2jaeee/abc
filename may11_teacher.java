@@ -22,6 +22,7 @@ public class may11_teacher {
 		   {
 			   System.out.println("합성수");
 		   }
+		   //추가한 주석
 	   }
 
 }
